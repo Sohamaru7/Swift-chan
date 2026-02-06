@@ -1,0 +1,39 @@
+﻿    </section>
+
+    <!-- Swift Aru Section -->
+    <section class="swift-aru">
+        <div class="container">
+            <h2 class="section-title">Swift Aru</h2>
+            <div class="aru-content">
+                <div class="aru-story">
+                    <p>I've apparently loved cars for as long as I've existed. According to my dad, it started when I was barely six months old — with a small red toy car, then my neighbour uncle's car. I didn't care about driving or scenery. Just being inside a car made me calm and silent. Seeing this, my dad decided it was time to bring one home. He chose the Swift — one of the most sought-after cars in India back then. We brought her home when I was about a year old. She's almost as old as me, barely a month or two younger.</p>
+                    
+                    <p><strong>She isn't just a car. She's family.</strong></p>
+                    
+                    <p>Everyone loves her differently. My mom trusts her because she has never stranded us. My brother says she looks happy, almost alive. My dad loves her because she carried him through years of responsibility and hard work. And me? I don't have a logical reason. It's unconditional.</p>
+                    
+                    <p>She's been the one constant in my life. I've moved across nearly five places, made and lost different groups of friends, grown through every phase — from being a baby who needed help to see over the dashboard, to finally driving her myself. In car years she's practically a grandma, yet she still feels young at heart.</p>
+                    
+                    <p>My earliest memory of her is sitting on my aajo's lap during Diwali, lights everywhere, heading out to buy fireworks. It feels like a dream now. Since then, we've travelled everywhere together — 1000 km, 1500 km, even 2000 km journeys. Distance never mattered. She's the only one I truly trust.</p>
+                    
+                    <p>I'm a huge car enthusiast today. I admire flashy dream machines for how they look or sound. I like them for reasons. But this is different. I've driven over a dozen cars, and every one felt unfamiliar. Driving her feels natural.</p>
+                    
+                    <p>She represents my entire life — my family's happiest moments, our struggles, and our victories.</p>
+                    
+                    <p><strong>With her, there is no reason. It's just love.</strong></p>
+                    
+                    <p class="aru-goal">My goal in life is simple: someday, I want a car that makes my kids feel the way she made me feel.</p>
+                </div>
+                <div class="aru-images">
+                    <div class="aru-image-placeholder">
+                        <span>Photo 1</span>
+                    </div>
+                    <div class="aru-image-placeholder">
+                        <span>Photo 2</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Legacy Section -->
